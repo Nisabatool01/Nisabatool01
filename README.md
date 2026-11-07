@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Syeda Nisa Batool — Backend Developer Intern" width="100%">
+<img src="banner.svg" alt="Syeda Nisa Batool — Backend Developer Intern" width="100%">
 
 <p>
   <a href="https://github.com/Nisabatool01"><img src="https://img.shields.io/badge/GitHub-Nisabatool01-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
@@ -10,31 +10,31 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="Decorative divider" width="100%">
+<img src="divider.svg" alt="Decorative divider" width="100%">
 
-<img src="assets/section-about.svg" alt="About Me section" width="100%">
+<img src="section-about.svg" alt="About Me section" width="100%">
 
 I am a Software Engineering graduate and Backend Developer Intern at Tecveq. I work with backend technologies including Python, Django and PHP, alongside relational databases. I also have experience with frontend fundamentals and tools for version control and design.
 
-<img src="assets/highlights.svg" alt="Profile highlights" width="100%">
+<img src="highlights.svg" alt="Profile highlights" width="100%">
 
-<img src="assets/divider.svg" alt="Decorative divider" width="100%">
+<img src="divider.svg" alt="Decorative divider" width="100%">
 
-<img src="assets/section-experience.svg" alt="Experience section" width="100%">
+<img src="section-experience.svg" alt="Experience section" width="100%">
 
 | Role | Organization | Dates | Focus |
 |---|---|---|---|
 | Backend Developer Intern | Tecveq | September 2026 – Present | Backend development |
 
-<img src="assets/divider.svg" alt="Decorative divider" width="100%">
+<img src="divider.svg" alt="Decorative divider" width="100%">
 
-<img src="assets/section-timeline.svg" alt="Career Timeline section" width="100%">
+<img src="section-timeline.svg" alt="Career Timeline section" width="100%">
 
-<img src="assets/timeline.svg" alt="Education and internship timeline" width="100%">
+<img src="timeline.svg" alt="Education and internship timeline" width="100%">
 
-<img src="assets/divider.svg" alt="Decorative divider" width="100%">
+<img src="divider.svg" alt="Decorative divider" width="100%">
 
-<img src="assets/section-projects.svg" alt="Projects section" width="100%">
+<img src="section-projects.svg" alt="Projects section" width="100%">
 
 ### [Social-Media-Agent-System](https://github.com/Nisabatool01/Social-Media-Agent-System)
 An AI-powered social media agent that creates, schedules and manages content automatically, helping businesses maintain a consistent presence across multiple social platforms.
@@ -48,9 +48,9 @@ A private TypeScript project.
 ### restaurant-website
 A private website project.
 
-<img src="assets/divider.svg" alt="Decorative divider" width="100%">
+<img src="divider.svg" alt="Decorative divider" width="100%">
 
-<img src="assets/section-tech-stack.svg" alt="Tech Stack section" width="100%">
+<img src="section-tech-stack.svg" alt="Tech Stack section" width="100%">
 
 **Backend**
 
@@ -77,16 +77,16 @@ A private website project.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<img src="assets/divider.svg" alt="Decorative divider" width="100%">
+<img src="divider.svg" alt="Decorative divider" width="100%">
 
-<img src="assets/section-education.svg" alt="Education section" width="100%">
+<img src="section-education.svg" alt="Education section" width="100%">
 
 **BS Software Engineering**  
 2021 – 2025
 
-<img src="assets/divider.svg" alt="Decorative divider" width="100%">
+<img src="divider.svg" alt="Decorative divider" width="100%">
 
-<img src="assets/section-github-stats.svg" alt="GitHub Stats section" width="100%">
+<img src="section-github-stats.svg" alt="GitHub Stats section" width="100%">
 
 <div align="center">
 
@@ -95,9 +95,9 @@ A private website project.
 
 </div>
 
-<img src="assets/divider.svg" alt="Decorative divider" width="100%">
+<img src="divider.svg" alt="Decorative divider" width="100%">
 
-<img src="assets/section-connect.svg" alt="Let's Connect section" width="100%">
+<img src="section-connect.svg" alt="Let's Connect section" width="100%">
 
 - **LinkedIn:** [Syeda Nisa Batool](https://www.linkedin.com/in/syeda-nisa-314173436/)
 - **Email:** [syedanisa523@gmail.com](mailto:syedanisa523@gmail.com)
